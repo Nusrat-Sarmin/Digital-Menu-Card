@@ -31,6 +31,7 @@ class DbConfig
 			
 			if (!$this->connection) {
 				echo 'Cannot connect to database server';
+				//hhhbhhh
 				exit;
 			}			
 		}	
